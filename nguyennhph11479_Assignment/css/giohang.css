@@ -1,0 +1,50 @@
+.hopchua{
+    overflow: hidden;
+    background-color:#39E639;
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.hopchua>.ten{
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+}
+.hopchua>.gia{
+    color: red;
+    font-size: 20px;
+    margin: 0px;
+}
+.hopcon{
+    background-color:#74BCCC;
+    width: 110%;
+    padding: 5px;
+    padding-top: 10px;
+    position: absolute;
+    bottom: -260px;
+    transition: .5s;
+    margin-left: -9px;
+
+}
+.hopcon>button{
+   border-radius: 10px;
+
+ color:white;
+}
+.hopcon>button:hover{
+    background-color:#0B3F0A;
+}
+.hopcon>button>i{
+    color:white;
+    margin-right: 9px;
+    font-size: 25px;
+}
+.hopcon>a{
+    color:#ED0000;
+    margin-right: -220px;
+    font-size: 15px;
+}
+.hopchua:hover .hopcon{
+ bottom: 0px;
+}

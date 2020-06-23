@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-color: #999999;
+}
+.containt{
+    width: 400px;
+    height: auto;
+    margin: -0px auto;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    
+}
+h1,h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+    margin: 50px 0px;
+  
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 110px;
+    margin: 50px 0px;
+}
+h4{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 24px;
+margin: 50px 0px;
+font-family: aa;
+}
